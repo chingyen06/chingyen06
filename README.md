@@ -1,9 +1,9 @@
 ## Hi, I am Tseng, Ching-Yen
 ### About Me
-I'm Tseng, Ching-Yen. From Taipei, Taiwan.
+I'm Tseng, Ching-Yen. From Taipei, Taiwan.  
 
-- Graduated from Taipei Municipal Zhong-zheng Senior High School.
 - Studying at Electronic Engineering and Computer Science, National Taipei University Of Technology.
+- Graduated from Taipei Municipal Zhong-zheng Senior High School.
 
 ### Contact Me
 Personal Website: [www.tseng-school.com](https://www.tseng-school.com/)  
