@@ -12,7 +12,7 @@ Email: mail@tseng-school.com
 linkedin: [曾靖諺](https://tw.linkedin.com/in/靖諺-曾-bb34b52b9)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chingyen06&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chingyen06&theme=tokyonight&hide=asp.net)
 
 ### Stat Of My Github
 ![Top Langs 2](https://github-readme-stats.vercel.app/api?username=chingyen06&theme=algolia&show_icons=true)
