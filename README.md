@@ -3,10 +3,10 @@
 I'm Tseng, Ching-Yen. From Taipei, Taiwan.  
 我是曾靖諺。
 
-- Studying at Electronic Engineering and Computer Science, National Taipei University Of Technology.
-- Graduated from Taipei Municipal Zhong-zheng Senior High School.
-- 就讀於國立臺北科技大學電資學士班
-- 畢業於臺北市立中正高中
+- Studying at Electronic Engineering and Computer Science, National Taipei University Of Technology.  
+就讀於國立臺北科技大學電資學士班  
+- Graduated from Taipei Municipal Zhong-zheng Senior High School.  
+畢業於臺北市立中正高中  
 
 ### :envelope: Contact Me
 Personal Website (個人網站): [www.tseng-school.com](https://www.tseng-school.com/)  
