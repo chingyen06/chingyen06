@@ -7,7 +7,7 @@
 
 ### :envelope: Contact Me
 個人網站: [www.tseng-school.com](https://www.tseng-school.com/)  
-學術網站: [acad.tseng-school.com](https://acad.tseng-school.com/)  **(Not finished yet，尚未完成)**  
+學術網站: [acad.tseng-school.com](https://acad.tseng-school.com/)  **(尚未完成)**  
 Email: mail@tseng-school.com  
 linkedin: [曾靖諺](https://tw.linkedin.com/in/靖諺-曾-bb34b52b9)  
 
