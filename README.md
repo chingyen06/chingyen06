@@ -25,3 +25,4 @@ N/A
 
 ### :chart_with_upwards_trend: Stat Of My Github
 ![Top Langs 2](https://github-readme-stats.vercel.app/api?username=chingyen06&theme=algolia&show_icons=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chingyen06&theme=tokyo-night&hide_border=true&area=true)
