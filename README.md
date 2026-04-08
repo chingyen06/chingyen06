@@ -21,8 +21,19 @@ linkedin: [曾靖諺](https://tw.linkedin.com/in/靖諺-曾-bb34b52b9)
 N/A
 
 ### :pencil: Most Used Languages
+#### 主要
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chingyen06&theme=tokyonight&hide=asp.net,html,scss,javascript)
 
+#### 備用
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chingyen06&theme=tokyonight&hide=asp.net,html,scss,css,javascript,jupyter%20notebook&langs_count=100)
+
 ### :chart_with_upwards_trend: Stat Of My Github
+#### 主要
 ![Top Langs 2](https://github-readme-stats.vercel.app/api?username=chingyen06&theme=algolia&show_icons=true)
+
+#### 備用
+![Top Langs 2](https://github-readme-stats-eight-theta.vercel.app/api?username=chingyen06&theme=algolia&show_icons=true)
+
+---
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chingyen06&theme=tokyo-night&hide_border=true&area=true)
