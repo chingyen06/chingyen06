@@ -34,7 +34,7 @@ linkedin: [曾靖諺](https://tw.linkedin.com/in/靖諺-曾-bb34b52b9)
 **技術:** `Python`, `OpenCV`, `MediaPipe`, `PyTorch`, `ResNet-18`, `YOLO26m`, `YOLOv4-tiny`, `TensorRT`, `ONNX`, `Jetbot`, `Jetson Nano`
 
 ### [**超級炸彈人**](https://github.com/chingyen06/Object-Oriented-Programming-Implementation): 
-基於 [PTSD (Practical Tools for Simple Design)](https://github.com/ntut-open-source-club/practical-tools-for-simple-design) 開發的遊戲專案。  
+基於 [PTSD (Practical Tools for Simple Design)](https://github.com/ntut-open-source-club/practical-tools-for-simple-design) 以及物件導向程式設計 (Object-Oriented Programming, OOP) 開發的遊戲專案。  
 
 **技術:** `C++`, `OOP (Object-Oriented Programming)`, `PTSD (Practical Tools for Simple Design)`    
 
