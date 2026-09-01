@@ -1,17 +1,17 @@
-## :star: About Me
+## About Me
 大家好，我是曾靖諺。  
 我目前會將演算法、解題筆記更新到我的個人網站，同時也會將課程內容、自製專案整理至此。
 
 - 就讀於國立臺北科技大學電資學士班  
 - 畢業於臺北市立中正高中  
 
-## :envelope: Contact Me
+## Contact Me
 個人網站: [www.tseng-school.com](https://www.tseng-school.com/)  
 學術網站: [acad.tseng-school.com](https://acad.tseng-school.com/)  **(尚未完成)**  
 Email: mail@tseng-school.com  
 linkedin: [曾靖諺](https://tw.linkedin.com/in/靖諺-曾-bb34b52b9)  
 
-## :open_file_folder: Project 
+## Project 
 ### [**Gobang Game**](https://github.com/chingyen06/Gobang-Program): 
 這是一款人機對戰模式的的五子棋遊戲，以 Unity 製作。  
 
@@ -43,17 +43,17 @@ linkedin: [曾靖諺](https://tw.linkedin.com/in/靖諺-曾-bb34b52b9)
 
 **技術:** `Python`, `Docker`, `TDD (Test-Driven Development)`, `Fault Localization`, `Search-Based Software Engineering`, `AI4SE`
 
-## :bookmark_tabs: Paper
+## Paper
 N/A
 
-## :pencil: Most Used Languages
+## Most Used Languages
 ### 主要
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chingyen06&theme=tokyonight&hide=asp.net,html,scss,javascript)
 
 ### 備用
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chingyen06&theme=tokyonight&hide=asp.net,html,scss,css,javascript,jupyter%20notebook&langs_count=100)
 
-## :chart_with_upwards_trend: Stat Of My Github
+## Stat Of My Github
 ### 主要
 ![Top Langs 2](https://github-readme-stats.vercel.app/api?username=chingyen06&theme=algolia&show_icons=true)
 
